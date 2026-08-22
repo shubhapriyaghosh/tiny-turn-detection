@@ -1,0 +1,26 @@
+audio:
+  sample_rate: 16000
+  window_seconds: 2.0
+  n_mels: 64
+  n_fft: 400
+  hop_length: 160
+  fmin: 20
+  fmax: 8000
+
+model:
+  conv_channels: [32, 64, 96]
+  gru_hidden: 96
+  gru_layers: 1
+  bidirectional: true
+  prosody_feat_dim: 6
+  dropout: 0.25
+  num_classes: 2
+
+train:
+  batch_size: 64
+  epochs: 25
+  lr: 3.0e-4
+  weight_decay: 1.0e-4
+  label_smoothing: 0.05
+  early_stopping_patience: 5
+  seed: 42

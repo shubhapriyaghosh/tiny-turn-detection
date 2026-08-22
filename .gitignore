@@ -1,0 +1,7 @@
+data/processed/audio/
+data/processed/audio_whisper/
+data/processed/whisper_chunks/
+data/processed/*.pt
+data/processed/*.csv
+__pycache__/
+*.pyc
