@@ -86,16 +86,6 @@ chance) at 2s and 0.542 at 8s — both too small a sample (n=24) to trust
 precisely, and the honest conclusion is this model has not been
 meaningfully validated on real speech.
 
-## What's left
-
-Every item originally flagged as future work — threshold tuning, static
-quantization, the 8-second window, and the full-scale Whisper comparison —
-has been tried and reported above with real numbers. One gap remains:
-
-- **Real, non-synthetic Hindi/Hinglish recordings** for a genuine held-out
-  eval set. Every result above is still validated against a test set
-  that's 82% synthetic. This is the one gap no amount of retraining on the
-  existing dataset can close.
 
   ## How to run
 
