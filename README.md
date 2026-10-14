@@ -1,4 +1,4 @@
-# Tiny Turn Detection — Data Scientist Challenge
+# Tiny Turn Detection
 
 Submitted by: Shubhapriya Ghosh
 
