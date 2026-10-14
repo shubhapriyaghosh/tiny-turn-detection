@@ -1,4 +1,4 @@
-# Tiny Turn Detection — Shiprocket Data Scientist Challenge
+# Tiny Turn Detection — Data Scientist Challenge
 
 Submitted by: Shubhapriya Ghosh
 
