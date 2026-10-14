@@ -1,6 +1,5 @@
 # Tiny Turn Detection
 
-Submitted by: Shubhapriya Ghosh
 
 ## The problem
 
